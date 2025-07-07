@@ -9,17 +9,16 @@ Welcome to my GitHub profile! I'm a **Physical Design Engineer specializing in A
 
 🔹 **Technical Expertise:**  
 ✔️ Physical Design (Synthesis to GDSII)  
-✔️ Place & Route, Floorplanning, Clock Tree Synthesis (CTS)  
+✔️ Floorplanning , Power Planning , Placement, Clock Tree Synthesis (CTS) , Routing .  
 ✔️ Static Timing Analysis (STA), Power Optimization, DRC/LVS  
 
 🔹 **Key Technologies:**  
-✔️ ASIC & VLSI Design  
 ✔️ RTL to GDSII Flow, Design for Manufacturability (DFM)  
 ✔️ Low-Power Design Techniques (UPF/CPF)  
 
 🔹 **Tools & Languages:**  
-✔️ Industry EDA Tools: **Cadence, Synopsys, Mentor Graphics**  
-✔️ Scripting & Automation: **TCL, Perl, Python, Linux**  
+✔️ Industry EDA Tools: **Synopsys**  
+✔️ Scripting & Automation: **TCL, Perl, Linux**  
 
 ---
 
